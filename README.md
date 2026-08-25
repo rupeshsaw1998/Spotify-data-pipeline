@@ -148,5 +148,5 @@ These three tables are linked by `album_id` and `artist_id`, forming a simple st
 
 ## 👤 Author
 
-**Your Name**
+**Rupesh Saw**
 [GitHub](https://github.com/rupeshsaw1998) · [LinkedIn](https://linkedin.com/in/rupeshsaw/)
