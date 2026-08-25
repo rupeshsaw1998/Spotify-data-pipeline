@@ -149,4 +149,4 @@ These three tables are linked by `album_id` and `artist_id`, forming a simple st
 ## 👤 Author
 
 **Your Name**
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub]([https://github.com/rupeshsaw1998]) · [LinkedIn](https://linkedin.com/in/rupeshsaw/)
